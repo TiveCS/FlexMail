@@ -1,0 +1,4 @@
+name: FlexMail
+version: '${project.version}'
+main: io.github.tivecs.flexmail.FlexMail
+api-version: 1.19
